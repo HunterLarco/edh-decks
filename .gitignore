@@ -1,0 +1,8 @@
+# Mac OS
+.DS_Store
+
+# Ignore backup files.
+*~
+
+# Ignore Vim swap files.
+.*.swp
