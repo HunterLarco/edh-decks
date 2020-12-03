@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Red/Blue Draw</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Staff of the Mind Magus"/>
+        <card number="15" name="Island"/>
+        <card number="9" name="Mountain"/>
+        <card number="1" name="Spellbook"/>
+        <card number="1" name="Spirebluff Canal"/>
+        <card number="1" name="Azami, Lady of Scrolls"/>
+        <card number="1" name="Channeled Force"/>
+        <card number="1" name="Riptide Director"/>
+        <card number="1" name="Ral Zarek"/>
+        <card number="1" name="Burn from Within"/>
+        <card number="1" name="Well of Ideas"/>
+        <card number="1" name="Teferi's Puzzle Box"/>
+        <card number="1" name="Archivist"/>
+        <card number="1" name="Irencrag Pyromancer"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Soul-Guide Lantern"/>
+        <card number="1" name="Ichthyomorphosis"/>
+        <card number="1" name="Tromokratis"/>
+        <card number="1" name="Psychic Membrane"/>
+        <card number="1" name="Waterknot"/>
+        <card number="1" name="Izzet Guildgate"/>
+        <card number="1" name="Temple of Epiphany"/>
+        <card number="1" name="Apprentice Wizard"/>
+        <card number="1" name="Temporal Adept"/>
+        <card number="1" name="Library of Leng"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Oneirophage"/>
+        <card number="1" name="Heraldic Banner"/>
+        <card number="1" name="Jace's Projection"/>
+        <card number="1" name="Firemind Vessel"/>
+        <card number="1" name="Learn from the Past"/>
+        <card number="1" name="Sapphire Medallion"/>
+        <card number="1" name="Elbrus, the Binding Blade"/>
+        <card number="1" name="Slip Through Space"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Devil's Play"/>
+        <card number="1" name="Chasm Skulker"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Storm Fleet Sprinter"/>
+        <card number="1" name="Snap"/>
+        <card number="1" name="Niv-Mizzet, the Firemind"/>
+        <card number="1" name="Swiftwater Cliffs"/>
+        <card number="1" name="Keep Watch"/>
+        <card number="1" name="Izzet Locket"/>
+        <card number="1" name="Windreader Sphinx"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Font of Mythos"/>
+        <card number="1" name="Ominous Seas"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Mindmoil"/>
+        <card number="1" name="Prophetic Prism"/>
+        <card number="1" name="Sage's Row Savant"/>
+        <card number="1" name="Graceful Adept"/>
+        <card number="1" name="Highland Lake"/>
+        <card number="1" name="Fiery Islet"/>
+        <card number="1" name="Archetype of Imagination"/>
+        <card number="1" name="Frogify"/>
+        <card number="1" name="Kadena's Silencer"/>
+        <card number="1" name="Hypersonic Dragon"/>
+        <card number="1" name="Whirlpool Rider"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Cascade Bluffs"/>
+        <card number="1" name="Counterflux"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Stitch in Time"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Laboratory Maniac"/>
+        <card number="1" name="Whirlpool Warrior"/>
+        <card number="1" name="Arjun, the Shifting Flame"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Evacuation"/>
+        <card number="1" name="Bident of Thassa"/>
+        <card number="1" name="Jori En, Ruin Diver"/>
+        <card number="1" name="Curiosity"/>
+        <card number="1" name="Hullbreacher"/>
+        <card number="1" name="The Locust God"/>
+    </zone>
+    <zone name="tokens">
+        <card number="1" name="Kraken  "/>
+        <card number="1" name="Frog Lizard"/>
+        <card number="1" name="Insect      "/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Teferi's Ageless Insight"/>
+        <card number="1" name="Psychosis Crawler"/>
+        <card number="1" name="Izzet Cluestone"/>
+        <card number="1" name="Niv-Mizzet, Dracogenius"/>
+        <card number="1" name="Mind Unbound"/>
+        <card number="1" name="Curiosity"/>
+        <card number="1" name="Facet Reader"/>
+        <card number="1" name="Wavebreak Hippocamp"/>
+        <card number="1" name="Betrayal"/>
+        <card number="1" name="Gadwick, the Wizened"/>
+        <card number="1" name="Niv-Mizzet, Parun"/>
+    </zone>
+</cockatrice_deck>
