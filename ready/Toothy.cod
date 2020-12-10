@@ -30,6 +30,7 @@
         <card number="1" name="Psychic Membrane"/>
         <card number="1" name="Collective Voyage"/>
         <card number="1" name="Protean Hulk"/>
+        <card number="1" name="Imprisoned in the Moon"/>
     </zone>
     <zone name="main">
         <card number="1" name="Command Tower"/>

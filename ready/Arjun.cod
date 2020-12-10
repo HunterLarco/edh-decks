@@ -5,6 +5,7 @@
     <zone name="side">
         <card number="1" name="Arjun, the Shifting Flame"/>
         <card number="1" name="Irencrag Pyromancer"/>
+        <card number="1" name="Imprisoned in the Moon"/>
     </zone>
     <zone name="main">
         <card number="1" name="Psychosis Crawler"/>

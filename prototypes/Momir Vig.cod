@@ -5,12 +5,24 @@
     <zone name="side">
         <card number="1" name="Momir Vig, Simic Visionary"/>
         <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="Shielding Plax"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Elixir of Immortality"/>
         <card number="1" name="Brawn"/>
         <card number="1" name="Pridemalkin"/>
+        <card number="1" name="Apex Altisaur"/>
+        <card number="1" name="Apex Devastator"/>
+        <card number="1" name="Archetype of Imagination"/>
+        <card number="1" name="Archetype of Endurance"/>
+        <card number="1" name="Artisan of Kozilek"/>
+        <card number="1" name="Avatar of Growth"/>
+        <card number="1" name="Eldrazi Conscription"/>
+        <card number="1" name="Emrakul, the Aeons Torn"/>
+        <card number="1" name="It That Betrays"/>
+        <card number="1" name="Aether Mutation"/>
+        <card number="1" name="Knowledge Exploitation"/>
+        <card number="1" name="Zameck Guildmage"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Elvish Piper"/>
+        <card number="1" name="Treachery"/>
     </zone>
     <zone name="main">
         <card number="1" name="Sol Ring"/>
@@ -46,7 +58,6 @@
         <card number="1" name="Rashmi, Eternities Crafter"/>
         <card number="1" name="Tishana, Voice of Thunder"/>
         <card number="1" name="Trygon Predator"/>
-        <card number="1" name="Zameck Guildmage"/>
         <card number="1" name="Zegana, Utopian Speaker"/>
         <card number="1" name="Uro, Titan of Nature's Wrath"/>
         <card number="1" name="Shardless Agent"/>
@@ -63,7 +74,6 @@
         <card number="1" name="Asceticism"/>
         <card number="1" name="Sagu Mauler"/>
         <card number="1" name="Roalesk, Apex Hybrid"/>
-        <card number="1" name="Aether Mutation"/>
         <card number="1" name="Bounty of the Luxa"/>
         <card number="1" name="Kiora, Master of the Depths"/>
         <card number="1" name="Plasm Capture"/>
@@ -86,10 +96,13 @@
         <card number="1" name="Counterspell"/>
         <card number="1" name="Cyclonic Rift"/>
         <card number="1" name="Whelming Wave"/>
-        <card number="1" name="Knowledge Exploitation"/>
         <card number="1" name="Aetherspouts"/>
         <card number="1" name="Kiora, the Crashing Wave"/>
         <card number="11" name="Island"/>
         <card number="11" name="Forest"/>
+        <card number="1" name="Ulamog, the Infinite Gyre"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Shielding Plax"/>
+        <card number="1" name="Swiftfoot Boots"/>
     </zone>
 </cockatrice_deck>
