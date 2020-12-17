@@ -4,6 +4,7 @@
     <comments></comments>
     <zone name="side">
         <card number="1" name="Golos, Tireless Pilgrim"/>
+        <card number="1" name="Defense of the Heart"/>
     </zone>
     <zone name="main">
         <card number="1" name="Darksteel Mutation"/>
@@ -81,10 +82,21 @@
         <card number="1" name="Strip Mine"/>
         <card number="1" name="Terramorphic Expanse"/>
         <card number="1" name="Vesuva"/>
-        <card number="5" name="Forest"/>
-        <card number="5" name="Plains"/>
-        <card number="5" name="Island"/>
-        <card number="5" name="Swamp"/>
-        <card number="4" name="Mountain"/>
+        <card number="3" name="Forest"/>
+        <card number="3" name="Plains"/>
+        <card number="3" name="Island"/>
+        <card number="2" name="Swamp"/>
+        <card number="2" name="Mountain"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Opulent Palace"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Seaside Citadel"/>
+        <card number="1" name="Jungle Shrine"/>
+        <card number="1" name="Crumbling Necropolis"/>
+        <card number="1" name="Savage Lands"/>
+        <card number="1" name="Mystic Monastery"/>
+        <card number="1" name="Nomad Outpost"/>
+        <card number="1" name="Sandsteppe Citadel"/>
+        <card number="1" name="Frontier Bivouac"/>
     </zone>
 </cockatrice_deck>
