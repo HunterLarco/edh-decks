@@ -103,5 +103,6 @@
     <zone name="side">
         <card number="1" name="Akroma, Vision of Ixidor"/>
         <card number="1" name="Rograkh, Son of Rohgahh"/>
+        <card number="1" name="Commander's Insignia"/>
     </zone>
 </cockatrice_deck>
