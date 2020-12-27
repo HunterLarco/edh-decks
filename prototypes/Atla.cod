@@ -83,8 +83,9 @@
         <card number="1" name="Branchloft Pathway"/>
         <card number="1" name="Needleverge Pathway"/>
         <card number="7" name="Mountain"/>
-        <card number="8" name="Forest"/>
+        <card number="7" name="Forest"/>
         <card number="7" name="Plains"/>
-        <card number="1" name="Soul's Majesty"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Guardian Project"/>
     </zone>
 </cockatrice_deck>
