@@ -17,6 +17,7 @@
         <card number="1" name="Reflecting Pool"/>
         <card number="1" name="Smoldering Marsh"/>
         <card number="1" name="Sunken Hollow"/>
+        <card number="1" name="Ulamog, the Infinite Gyre"/>
     </zone>
     <zone name="main">
         <card number="1" name="Hullbreacher"/>
@@ -80,7 +81,6 @@
         <card number="1" name="Darksteel Ingot"/>
         <card number="1" name="Obelisk of Grixis"/>
         <card number="1" name="Thran Dynamo"/>
-        <card number="1" name="Ulamog, the Infinite Gyre"/>
         <card number="1" name="Yahenni, Undying Partisan"/>
         <card number="1" name="Attrition"/>
         <card number="1" name="Command Tower"/>
@@ -109,5 +109,6 @@
         <card number="4" name="Mountain"/>
         <card number="4" name="Swamp"/>
         <card number="1" name="Reef Worm"/>
+        <card number="1" name="Carrion Feeder"/>
     </zone>
 </cockatrice_deck>

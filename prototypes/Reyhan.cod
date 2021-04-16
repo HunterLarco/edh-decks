@@ -6,6 +6,11 @@
         <card number="1" name="Alharu, Solemn Ritualist"/>
         <card number="1" name="Reyhan, Last of the Abzan"/>
         <card number="1" name="Enduring Scalelord"/>
+        <card number="1" name="Golgari Germination"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Luminous Broodmoth"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="God-Eternal Oketra"/>
     </zone>
     <zone name="main">
         <card number="1" name="Abzan Ascendancy"/>
@@ -22,8 +27,6 @@
         <card number="1" name="Eternal Thirst"/>
         <card number="1" name="Gavony Unhallowed"/>
         <card number="1" name="Gavony Township"/>
-        <card number="1" name="God-Eternal Oketra"/>
-        <card number="1" name="Golgari Germination"/>
         <card number="1" name="Grakmaw, Skyclave Ravager"/>
         <card number="1" name="Grave Betrayal"/>
         <card number="1" name="Grave Pact"/>
@@ -55,10 +58,9 @@
         <card number="1" name="Mangara, the Diplomat"/>
         <card number="1" name="Skullclamp"/>
         <card number="7" name="Swamp"/>
-        <card number="6" name="Plains"/>
+        <card number="7" name="Plains"/>
         <card number="8" name="Forest"/>
         <card number="1" name="Detection Tower"/>
-        <card number="1" name="Strip Mine"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Sandsteppe Citadel"/>
         <card number="1" name="Concealed Courtyard"/>
@@ -67,7 +69,6 @@
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Windbrisk Heights"/>
-        <card number="1" name="Howltooth Hollow"/>
         <card number="1" name="Assassin's Trophy"/>
         <card number="1" name="Revoke Existence"/>
         <card number="1" name="Day of Judgment"/>
@@ -88,5 +89,8 @@
         <card number="1" name="Hardened Scales"/>
         <card number="1" name="Good-Fortune Unicorn"/>
         <card number="1" name="Longshot Squad"/>
+        <card number="1" name="Basri's Solidarity"/>
+        <card number="1" name="Phyrexian Tower"/>
+        <card number="1" name="Phyrexian Altar"/>
     </zone>
 </cockatrice_deck>

@@ -4,6 +4,8 @@
     <comments></comments>
     <zone name="side">
         <card number="1" name="Omnath, Locus of Mana"/>
+        <card number="1" name="Oblivion Stone"/>
+        <card number="1" name="Cryptolith Fragment"/>
     </zone>
     <zone name="main">
         <card number="10" name="Wastes"/>
@@ -19,7 +21,6 @@
         <card number="1" name="Kenrith's Transformation"/>
         <card number="1" name="Lignify"/>
         <card number="1" name="All Is Dust"/>
-        <card number="1" name="Oblivion Stone"/>
         <card number="1" name="Nevinyrral's Disk"/>
         <card number="1" name="Selvala, Heart of the Wilds"/>
         <card number="1" name="Wilderness Reclamation"/>
@@ -33,7 +34,6 @@
         <card number="1" name="Skyshroud Claim"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Overgrowth"/>
-        <card number="1" name="Cryptolith Fragment"/>
         <card number="1" name="Beast Whisperer"/>
         <card number="1" name="Rishkar's Expertise"/>
         <card number="1" name="Harmonize"/>
@@ -84,5 +84,7 @@
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Arcane Lighthouse"/>
         <card number="1" name="Homeward Path"/>
+        <card number="1" name="Font of Mythos"/>
+        <card number="1" name="Gauntlet of Power"/>
     </zone>
 </cockatrice_deck>
