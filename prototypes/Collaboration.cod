@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Abundant Growth"/>
+        <card number="1" name="Academy Rector"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Argothian Enchantress"/>
+        <card number="1" name="Authority of the Consuls"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Braid of Fire"/>
+        <card number="1" name="Chisei, Heart of Oceans"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Darksteel Mutation"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Destiny Spinner"/>
+        <card number="1" name="Doubling Season"/>
+        <card number="1" name="Dryad of the Ilysian Grove"/>
+        <card number="1" name="Duelist's Heritage"/>
+        <card number="1" name="Eidolon of Blossoms"/>
+        <card number="1" name="Energy Flux"/>
+        <card number="1" name="Estrid's Invocation"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Fabled Passage"/>
+        <card number="1" name="Fertile Ground"/>
+        <card number="1" name="Fevered Visions"/>
+        <card number="1" name="Forbidden Orchard"/>
+        <card number="7" name="Forest"/>
+        <card number="1" name="Frogify"/>
+        <card number="1" name="Greater Auramancy"/>
+        <card number="1" name="Helm of the Gods"/>
+        <card number="1" name="Herald of Leshrac"/>
+        <card number="1" name="Hunted Horror"/>
+        <card number="1" name="Hunted Phantasm"/>
+        <card number="1" name="Hunted Troll"/>
+        <card number="5" name="Island"/>
+        <card number="1" name="Jötun Grunt"/>
+        <card number="1" name="Karmic Justice"/>
+        <card number="1" name="Karplusan Minotaur"/>
+        <card number="1" name="Lieutenants of the Guard"/>
+        <card number="1" name="Mana Chains"/>
+        <card number="4" name="Mountain"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Naturalize"/>
+        <card number="1" name="Nessian Wanderer"/>
+        <card number="1" name="Paradox Haze"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="1" name="Pir, Imaginative Rascal"/>
+        <card number="6" name="Plains"/>
+        <card number="1" name="Plea for Power"/>
+        <card number="1" name="Power Conduit"/>
+        <card number="1" name="Prismatic Omen"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Reflecting Pool"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Scheming Symmetry"/>
+        <card number="1" name="Selvala's Stampede"/>
+        <card number="1" name="Setessan Champion"/>
+        <card number="1" name="Sheltering Ancient"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Sterling Grove"/>
+        <card number="1" name="Sublime Exhalation"/>
+        <card number="3" name="Swamp"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Sylvan Offering"/>
+        <card number="1" name="Tempt with Discovery"/>
+        <card number="1" name="Tempting Contract"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Trace of Abundance"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Varchild's War-Riders"/>
+        <card number="1" name="Vesuva"/>
+        <card number="1" name="Vexing Sphinx"/>
+        <card number="1" name="Wall of Shards"/>
+        <card number="1" name="Wedding Ring"/>
+        <card number="1" name="Wild Growth"/>
+        <card number="1" name="Windborn Muse"/>
+        <card number="1" name="Yavimaya, Cradle of Growth"/>
+        <card number="1" name="Master of Ceremonies"/>
+        <card number="1" name="Tenuous Truce"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Jhoira of the Ghitu"/>
+        <card number="1" name="Psychic Vortex"/>
+        <card number="1" name="Esika, God of the Tree"/>
+    </zone>
+</cockatrice_deck>
