@@ -3,8 +3,8 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="side">
-        <card number="1" name="Golos, Tireless Pilgrim"/>
         <card number="1" name="Defense of the Heart"/>
+        <card number="1" name="Sisay, Weatherlight Captain"/>
     </zone>
     <zone name="main">
         <card number="1" name="Darksteel Mutation"/>
