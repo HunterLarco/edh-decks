@@ -3,6 +3,7 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
+        <card number="1" name="Academy Ruins"/>
         <card number="1" name="Ancient Den"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Archaeomancer's Map"/>
@@ -33,7 +34,7 @@
         <card number="1" name="Hotshot Mechanic"/>
         <card number="1" name="Imposter Mech"/>
         <card number="1" name="Inventors' Fair"/>
-        <card number="12" name="Island"/>
+        <card number="11" name="Island"/>
         <card number="1" name="Jhoira's Familiar"/>
         <card number="1" name="Jin-Gitaxias, Progress Tyrant"/>
         <card number="1" name="Kappa Cannoneer"/>
@@ -63,12 +64,12 @@
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Rhystic Study"/>
         <card number="1" name="Sai, Master Thopterist"/>
+        <card number="1" name="Scourglass"/>
         <card number="1" name="Seat of the Synod"/>
         <card number="1" name="Skysovereign, Consul Flagship"/>
         <card number="1" name="Smuggler's Copter"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Stenn, Paranoid Partisan"/>
-        <card number="1" name="Supreme Verdict"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Tezzeret, Betrayer of Flesh"/>
         <card number="1" name="The Reality Chip"/>
@@ -91,6 +92,7 @@
         <card number="1" name="Peacewalker Colossus"/>
         <card number="1" name="Riddlesmith"/>
         <card number="1" name="Sram, Senior Edificer"/>
+        <card number="1" name="Supreme Verdict"/>
         <card number="1" name="Thoughtcast"/>
         <card number="1" name="Thunderhawk Gunship"/>
         <card number="1" name="Shorikai, Genesis Engine"/>
